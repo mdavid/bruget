@@ -3,4 +3,4 @@
 	url = git://github.com/mxcl/homebrew.git
 [submodule "lib/module/nuget"]
 	path = lib/module/nuget
-	url = git@github.com:mdavid/nuget.git
+	url = git://github.com/mdavid/nuget.git
