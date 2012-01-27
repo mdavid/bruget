@@ -4,3 +4,6 @@
 [submodule "lib/module/nuget"]
 	path = lib/module/nuget
 	url = git://github.com/mdavid/nuget.git
+[submodule "lib/module/pkg-config"]
+	path = lib/module/pkg-config
+	url = git://anongit.freedesktop.org/pkg-config
